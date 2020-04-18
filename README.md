@@ -1,2 +1,3 @@
-# SomethingForChange
-This repository requires a contribution from you. List out few ideas for programming. After the topic for programming is selected, we all will contribute to write our own line of code in it.
+# Linux Kernel Modules
+
+It consists of various Linux Kernel Module Examples for user to try out.
